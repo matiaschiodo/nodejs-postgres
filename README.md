@@ -15,7 +15,7 @@ Express.js, Sequelize, Docker and Postgres
 - Postgres & MySQL
 - Migrations
 - ORM: Sequelize
-- CRUD wiht Sequelize
+- CRUD with Sequelize
 - Pagination
 
 ## Contributing :raising_hand:
