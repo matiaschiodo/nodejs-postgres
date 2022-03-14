@@ -26,7 +26,7 @@ The project is open to changes or suggestions.
 ## Installation :electric_plug:
 Clone project:
 ```
-git clone https://github.com/matiaschiodo/curso-nodejs-postgres.git
+git clone https://github.com/matiaschiodo/nodejs-postgres.git
  ```
 
 Install dependencies:
